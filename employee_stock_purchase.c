@@ -1,10 +1,7 @@
-//
-//  main.c
-//  ESPP
-//
 //  Created by Aeriel Denmark on 10/13/19.
 //  Copyright © 2019 Aeriel Denmark. All rights reserved.
 //
+//  The following is a program that outlines an Employee Stock Purchase Program
 
 #include <stdio.h>
 #include <math.h>
